@@ -38,3 +38,4 @@
 <strong>18) Tensorboard - Graph and loss visualization </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Tensorboard_Basics.ipynb">notebook</a>)
 
 <strong>19) Tensorboard - Advanced visualization </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Tensorboard_Advance.ipynb">notebook</a>)
+
