@@ -17,15 +17,13 @@
 
 <strong>8) Gradient Boosted Decision Tree </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Gradient_Boosted_Decision_Tree.ipynb">notebook</a>)
 
-<strong>9) Word2Vec (Word Embedding) </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/HelloWorld.ipynb">notebook</a>)
+<strong>9) Simple Neural Network </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Neural_Network_Raw.ipynb">notebook</a>)
 
-<strong>10) Simple Neural Network </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/HelloWorld.ipynb">notebook</a>)
+<strong>10) Convolutional Neural Network </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Convolutional_Network.ipynb">notebook</a>)
 
-<strong>11) Convolutional Neural Network </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/HelloWorld.ipynb">notebook</a>)
+<strong>11) Recurrent Neural Network (LSTM) </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Recurrent_Network.ipynb">notebook</a>)
 
-<strong>12) Recurrent Neural Network (LSTM) </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/HelloWorld.ipynb">notebook</a>)
+<strong>12) Bi-directional Recurrent Neural Network (LSTM) </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Bidirectional_RNN.ipynb">notebook</a>)
 
-<strong>13) Bi-directional Recurrent Neural Network (LSTM) </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/HelloWorld.ipynb">notebook</a>)
-
-<strong>14) Dynamic Recurrent Neural Network (LSTM) </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/HelloWorld.ipynb">notebook</a>)
+<strong>13) Dynamic Recurrent Neural Network (LSTM) </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Dynamic_RNN.ipynb">notebook</a>)
 
