@@ -27,3 +27,14 @@
 
 <strong>13) Dynamic Recurrent Neural Network (LSTM) </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Dynamic_RNN.ipynb">notebook</a>)
 
+<strong>14) Auto-Encoder </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/AutoEncoder.ipynb">notebook</a>)
+
+<strong>15) Variational Auto-Encoder </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Variational_AutoEncoder.ipynb">notebook</a>)
+
+<strong>16) GAN (Generative Adversarial Networks) </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Generative_Adversarial_Network.ipynb">notebook</a>)
+
+<strong>17) Save and Restore a model </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Save_Restore_Model.ipynb">notebook</a>)
+
+<strong>18) Tensorboard - Graph and loss visualization </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Tensorboard_Basics.ipynb">notebook</a>)
+
+<strong>19) Tensorboard - Advanced visualization </strong>(<a href="https://github.com/pragneshs9/Artificial-Intelligence/blob/master/Examples/Tensorboard_Advance.ipynb">notebook</a>)
