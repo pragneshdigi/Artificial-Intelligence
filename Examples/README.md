@@ -1,4 +1,4 @@
-# Examples Using Tensorflow
+# Algorithm Using Tensorflow
 
 
 <strong>1) Hello World </strong>(<a href="https://github.com/pragneshdigi/Artificial-Intelligence/blob/master/Examples/HelloWorld.ipynb">notebook</a>)
