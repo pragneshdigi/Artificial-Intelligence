@@ -3,6 +3,9 @@
 <strong> <a href="https://github.com/pragneshdigi/Artificial-Intelligence/blob/master/Application/Face Detection.ipynb">
   Face Detection</a></strong>
 
+<strong> <a href="https://github.com/pragneshdigi/Artificial-Intelligence/blob/master/Application/Image Recognition">
+  Image Recognition</a></strong>
+  
 <strong> <a href="https://github.com/pragneshdigi/Artificial-Intelligence/blob/master/Application/Stock Market.ipynb">
   Stock Market</a></strong>
   
