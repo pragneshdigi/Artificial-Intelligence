@@ -1,0 +1,1 @@
+ This sample sentence, showing stop words filtration.
